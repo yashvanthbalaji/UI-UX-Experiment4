@@ -33,7 +33,7 @@ Login → Home → Video Listing → Account details
 8.Save & Export the final wireframe.
  
 ## Output:
-<img width="1024" height="510" alt="yash" src="https://github.com/user-attachments/assets/f33ee6a0-d064-455b-93a4-f6cfa9e8ee85" />
+<img width="1024" height="510" alt="HOME SCREEN" src="https://github.com/user-attachments/assets/1a8b7400-d43c-44e0-80c8-a5e7b70cff8c" />
 
 ## Result:
 Thus the wireframe diagram for a generic application or website using Balsamiq was completed and verified.
